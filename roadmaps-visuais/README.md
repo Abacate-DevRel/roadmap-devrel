@@ -8,13 +8,6 @@ Esta pasta contém versões visuais e interativas dos roadmaps de DevRel, criada
 - **[Roadmap Visual Completo](./roadmap-visual.md)** - Múltiplas visualizações (mindmap, journey, níveis)
 - **[Roadmap Interativo](./roadmap-interativo.md)** - Versão com checkboxes para acompanhar progresso
 
-### 🎭 **Roadmaps por Role** 
-- **[Developer Advocate Visual](./developer-advocate-visual.md)** - Foco em evangelismo e conteúdo
-- **[Community Manager Visual](./community-manager-visual.md)** - Gestão e crescimento de comunidades
-- **Technical Writer Visual** *(planejado)* - Documentação e materiais educacionais
-- **DX Engineer Visual** *(planejado)* - Experiência do desenvolvedor
-- **DevRel Manager Visual** *(planejado)* - Estratégia e gestão de times
-
 ## 🎯 Tipos de Visualizações
 
 ### 📊 **Fluxogramas** 
@@ -78,20 +71,15 @@ Esta pasta contém versões visuais e interativas dos roadmaps de DevRel, criada
 |----------------|--------|-------------------|
 | [Roadmap Visual Completo](./roadmap-visual.md) | ✅ Completo | 2025-07-03 |
 | [Roadmap Interativo](./roadmap-interativo.md) | ✅ Completo | 2025-07-03 |
-| [Developer Advocate Visual](./developer-advocate-visual.md) | ✅ Completo | 2025-07-03 |
-| [Community Manager Visual](./community-manager-visual.md) | ✅ Completo | 2025-07-03 |
-| Technical Writer Visual | 🔄 Planejado | - |
-| DX Engineer Visual | 🔄 Planejado | - |
-| DevRel Manager Visual | 🔄 Planejado | - |
 
 ## 🤝 Contribuindo
 
 Quer contribuir com novos diagramas ou melhorar os existentes?
 
-1. **Veja o [Guia de Diagramas](../recursos/guia-diagramas.md)**
-2. **Teste no [Mermaid Live Editor](https://mermaid.live/)**
-3. **Abra um PR com suas melhorias**
+1. **Teste no [Mermaid Live Editor](https://mermaid.live/)**
+2. **Abra um PR com suas melhorias**
+3. **Veja o [CONTRIBUTING.md](../CONTRIBUTING.md)** para mais detalhes
 
 ---
 
-💡 **Dica**: Os roadmaps visuais são complementares aos [roadmaps escritos](../roadmaps/). Use ambos para uma experiência completa de aprendizado!
+💡 **Dica**: Os roadmaps visuais são complementares ao [roadmap textual](../roadmaps/). Use ambos para uma experiência completa de aprendizado!

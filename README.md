@@ -10,12 +10,6 @@ Este repositório contém roadmaps estruturados e recursos educacionais para dif
 
 - **[Roadmap Geral](./roadmaps/roadmap-geral.md)** - Um guia completo e abrangente para quem quer entender DevRel do zero
 - 🎨 **[Roadmaps Visuais](./roadmaps-visuais/)** - Versões visuais e interativas com diagramas Mermaid
-- 🔄 **[Roadmaps por Role](./roadmaps/)** *(em desenvolvimento)*:
-  - Developer Advocate
-  - Community Manager
-  - Technical Writer
-  - Developer Experience Engineer
-  - DevRel Manager/Lead
 
 ## 🎯 Para quem é este repositório
 
@@ -29,29 +23,20 @@ Este repositório contém roadmaps estruturados e recursos educacionais para dif
 
 1. **Comece pelo [Roadmap Geral](./roadmaps/roadmap-geral.md)** - ele fornece uma visão completa da área
 2. **Explore as [versões visuais](./roadmaps-visuais/)** - para uma experiência mais interativa
-3. **Identifique seu interesse** - qual role dentro de DevRel mais te atrai
-4. **Aprofunde-se** nos [roadmaps específicos](./roadmaps/) (quando disponíveis)
-5. **Use os [recursos](./recursos/)** e [templates](./templates/) como apoio prático
-6. **Pratique** aplicando os conceitos em projetos reais
+3. **Pratique** aplicando os conceitos em projetos reais
 
 ## 📁 Estrutura do Repositório
 
 ```
 roadmap-devrel/
-├── roadmaps/           # Roadmaps textuais detalhados
+├── roadmaps/           # Roadmap textual detalhado
 │   ├── roadmap-geral.md
-│   ├── developer-advocate.md
-│   ├── community-manager.md
 │   └── README.md
 ├── roadmaps-visuais/   # Versões visuais e interativas
 │   ├── roadmap-visual.md
 │   ├── roadmap-interativo.md
 │   └── README.md
-├── recursos/           # Materiais complementares
-│   ├── guia-diagramas.md
-│   └── README.md
-├── templates/          # Templates práticos
-│   └── README.md
+├── CONTRIBUTING.md     # Como contribuir
 └── README.md          # Este arquivo
 ```
 
@@ -66,9 +51,7 @@ Este é um projeto educacional aberto! Você pode contribuir:
 
 ## 📚 Recursos Adicionais
 
-- **[Roadmaps por Role](./roadmaps/)** - Navegue por todos os roadmaps disponíveis
-- **[Recursos de Estudo](./recursos/)** - Materiais complementares *(em breve)*
-- **[Templates Práticos](./templates/)** - Modelos para usar no dia a dia *(em breve)*
+- **[Roadmaps Visuais](./roadmaps-visuais/)** - Navegue por todas as versões visuais disponíveis
 
 ## 📜 Licença
 
