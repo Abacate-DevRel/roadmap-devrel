@@ -227,17 +227,7 @@ flowchart TD
 1. Comece com a **[Versão Simples](#-versão-simples-e-prática)** para ter um caminho claro
 2. Use o **[Mindmap de Competências](#-versão-detalhada-por-competências)** para explorar áreas específicas
 3. Acompanhe seu progresso com o **[Roadmap Interativo](./roadmap-interativo.md)**
-
-### 🎯 **Para planejamento e estudo:**
-- **Mindmap**: Entender todas as competências necessárias
-- **Por Níveis**: Avaliar onde você está e definir próximos passos
-- **Jornada**: Planejar cronograma de aprendizado
-
-### 🎤 **Para apresentações:**
-- **Versão Simples**: Explicar DevRel para iniciantes
-- **Interconectada**: Mostrar complexidade e relacionamentos
-- **Mindmap**: Demonstrar abrangência da área
-
+   
 ### 💡 **Dicas de uso:**
 - ✅ **Não tente fazer tudo ao mesmo tempo** - escolha 2-3 áreas para focar
 - 🔄 **É um processo iterativo** - você vai voltar e aprofundar áreas
