@@ -5,9 +5,10 @@ Esta pasta contém todos os roadmaps de aprendizado para diferentes aspectos e r
 ## 📋 Roadmaps Disponíveis
 
 ### 🌟 Roadmap Principal
-- **[Roadmap Geral](./roadmap-geral.md)** - Visão completa e abrangente de DevRel
-- **[Roadmap Visual](./roadmap-visual.md)** - Versões visuais com diagramas Mermaid
-- **[Roadmap Interativo](./roadmap-interativo.md)** - Versão com checkboxes para acompanhar progresso
+- **[Roadmap Geral](./roadmap-geral.md)** - Visão completa e abrangente de DevRel (formato textual)
+
+### 🎨 Versões Visuais
+- **[Roadmaps Visuais](../roadmaps-visuais/)** - Versões com diagramas, mapas mentais e interativas
 
 ### 👥 Roadmaps por Role
 
@@ -31,8 +32,6 @@ Esta pasta contém todos os roadmaps de aprendizado para diferentes aspectos e r
 | Roadmap | Status | Última Atualização |
 |---------|--------|-------------------|
 | Roadmap Geral | ✅ Completo | 2025-07-03 |
-| Roadmap Visual | ✅ Completo | 2025-07-03 |
-| Roadmap Interativo | ✅ Completo | 2025-07-03 |
 | Developer Advocate | 🔄 Em desenvolvimento | 2025-07-03 |
 | Community Manager | 🔄 Em desenvolvimento | 2025-07-03 |
 | Technical Writer | 🔄 Planejado | - |
