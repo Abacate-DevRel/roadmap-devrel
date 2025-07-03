@@ -250,7 +250,7 @@ flowchart TD
     Start([👋 Quero trabalhar com DevRel]) --> Learn{📚 Aprender o Básico}
     
     Learn --> Read[📖 Ler sobre DevRel<br/>• O que é<br/>• Por que existe<br/>• Principais roles]
-    Learn --> Watch[👀 Observar<br/>• Seguir DevRels no Twitter<br/>• Participar de comunidades<br/>• Ver palestras online]
+    Learn --> Watch[👀 Observar<br/>• Seguir DevRels nas redes sociais<br/>• Participar de comunidades<br/>• Ver palestras online]
     
     Read --> FirstActions{🎯 Primeiras Ações}
     Watch --> FirstActions
