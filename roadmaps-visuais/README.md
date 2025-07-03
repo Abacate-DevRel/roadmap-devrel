@@ -8,12 +8,12 @@ Esta pasta contém versões visuais e interativas dos roadmaps de DevRel, criada
 - **[Roadmap Visual Completo](./roadmap-visual.md)** - Múltiplas visualizações (mindmap, journey, níveis)
 - **[Roadmap Interativo](./roadmap-interativo.md)** - Versão com checkboxes para acompanhar progresso
 
-### 🎭 **Roadmaps por Role** *(em desenvolvimento)*
-- **Developer Advocate Visual** - Foco em evangelismo e conteúdo
-- **Community Manager Visual** - Gestão e crescimento de comunidades
-- **Technical Writer Visual** - Documentação e materiais educacionais
-- **DX Engineer Visual** - Experiência do desenvolvedor
-- **DevRel Manager Visual** - Estratégia e gestão de times
+### 🎭 **Roadmaps por Role** 
+- **[Developer Advocate Visual](./developer-advocate-visual.md)** - Foco em evangelismo e conteúdo
+- **[Community Manager Visual](./community-manager-visual.md)** - Gestão e crescimento de comunidades
+- **Technical Writer Visual** *(planejado)* - Documentação e materiais educacionais
+- **DX Engineer Visual** *(planejado)* - Experiência do desenvolvedor
+- **DevRel Manager Visual** *(planejado)* - Estratégia e gestão de times
 
 ## 🎯 Tipos de Visualizações
 
@@ -78,8 +78,8 @@ Esta pasta contém versões visuais e interativas dos roadmaps de DevRel, criada
 |----------------|--------|-------------------|
 | [Roadmap Visual Completo](./roadmap-visual.md) | ✅ Completo | 2025-07-03 |
 | [Roadmap Interativo](./roadmap-interativo.md) | ✅ Completo | 2025-07-03 |
-| Developer Advocate Visual | 🔄 Planejado | - |
-| Community Manager Visual | 🔄 Planejado | - |
+| [Developer Advocate Visual](./developer-advocate-visual.md) | ✅ Completo | 2025-07-03 |
+| [Community Manager Visual](./community-manager-visual.md) | ✅ Completo | 2025-07-03 |
 | Technical Writer Visual | 🔄 Planejado | - |
 | DX Engineer Visual | 🔄 Planejado | - |
 | DevRel Manager Visual | 🔄 Planejado | - |
