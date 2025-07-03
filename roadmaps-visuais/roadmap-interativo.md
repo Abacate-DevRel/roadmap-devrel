@@ -102,26 +102,5 @@ flowchart LR
 - [ ] Praticar escuta ativa em comunidades
 - [ ] Demonstrar curiosidade e adaptabilidade
 
-## 🎯 Marcos de Progresso
-
-### 🌱 **Nível Iniciante** (0-6 meses)
-- ✅ Compreende DevRel
-- ✅ Produz conteúdo básico
-- ✅ Interage em comunidades
-- ✅ Tem noções técnicas
-
-### 🌿 **Nível Intermediário** (6-18 meses)
-- ✅ Produz conteúdo regularmente
-- ✅ Organiza eventos
-- ✅ Coleta e aplica feedback
-- ✅ Compreende métricas
-
-### 🌳 **Nível Avançado** (18+ meses)
-- ✅ Lidera iniciativas de comunidade
-- ✅ Influencia roadmap de produto
-- ✅ Desenvolve estratégia DevRel
-- ✅ Mentora outros profissionais
-
----
 
 **💡 Dica**: Use este roadmap como um guia, não como uma regra rígida. Cada jornada é única!
