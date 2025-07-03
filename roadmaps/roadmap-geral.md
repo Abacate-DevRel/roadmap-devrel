@@ -1,7 +1,84 @@
-
 ## Roadmap de Aprendizado em Developer Relations (DevRel)
 
 Este roadmap é um guia de estudos e habilidades para quem deseja entrar ou se aprofundar em Developer Relations. Ele começa pelo porquê, passa pelas habilidades essenciais e te orienta na prática.
+
+## 🗺️ Visão Visual do Roadmap
+
+```mermaid
+graph TD
+    Start([🚀 Começar DevRel]) --> Foundation{1. Fundamentos DevRel}
+    
+    Foundation --> |Entender o porquê| Importance[📋 O que é DevRel<br/>e por que é importante]
+    Importance --> Skills{Escolha suas trilhas}
+    
+    Skills --> Communication[2. 📝 Comunicação<br/>e Conteúdo]
+    Skills --> Technical[3. 💻 Conhecimento<br/>Técnico]
+    Skills --> Community[4. 👥 Construção de<br/>Comunidades]
+    Skills --> Strategy[5. 📊 Estratégia<br/>e Negócios]
+    Skills --> Soft[6. 🧠 Habilidades<br/>Comportamentais]
+    
+    %% Trilha Comunicação
+    Communication --> CommWritten[✍️ Escrita Eficaz]
+    Communication --> CommOral[🎤 Apresentações]
+    Communication --> CommMultimedia[🎬 Conteúdo Multimídia]
+    Communication --> CommTools[🛠️ Ferramentas]
+    
+    %% Trilha Técnica
+    Technical --> TechMindset[🧠 Mindset Dev]
+    Technical --> TechFundamentals[⚙️ Fundamentos]
+    Technical --> TechArchitecture[🏗️ Arquitetura]
+    Technical --> TechLearning[📚 Aprendizado Contínuo]
+    
+    %% Trilha Comunidade
+    Community --> CommunityEngagement[🤝 Engajamento]
+    Community --> CommunityEvents[🎪 Eventos]
+    Community --> CommunityFeedback[🔄 Feedback Loop]
+    
+    %% Trilha Estratégia
+    Strategy --> StrategyMetrics[📈 Métricas e KPIs]
+    Strategy --> StrategyMarketing[🎯 Marketing de Produto]
+    Strategy --> StrategyAlignment[🤝 Alinhamento Interno]
+    
+    %% Trilha Soft Skills
+    Soft --> SoftEmpathy[❤️ Empatia]
+    Soft --> SoftListening[👂 Escuta Ativa]
+    Soft --> SoftCuriosity[🔍 Curiosidade]
+    Soft --> SoftProblemSolving[🧩 Resolução de Problemas]
+    Soft --> SoftAdaptability[🔄 Adaptabilidade]
+    Soft --> SoftEQ[🧠 Inteligência Emocional]
+    Soft --> SoftProactive[⚡ Proatividade]
+    
+    %% Convergência para prática
+    CommWritten --> Practice{Aplicar na Prática}
+    CommOral --> Practice
+    TechMindset --> Practice
+    CommunityEngagement --> Practice
+    StrategyMetrics --> Practice
+    SoftEmpathy --> Practice
+    
+    Practice --> DevAdvocate[🎤 Developer Advocate]
+    Practice --> CommunityManager[👥 Community Manager]
+    Practice --> TechWriter[📝 Technical Writer]
+    Practice --> DXEngineer[⚙️ DX Engineer]
+    Practice --> DevRelManager[👔 DevRel Manager]
+    
+    %% Styling
+    classDef foundationClass fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    classDef skillClass fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
+    classDef practiceClass fill:#e8f5e8,stroke:#1b5e20,stroke-width:2px
+    classDef roleClass fill:#fff3e0,stroke:#e65100,stroke-width:2px
+    
+    class Foundation,Importance foundationClass
+    class Communication,Technical,Community,Strategy,Soft skillClass
+    class Practice practiceClass
+    class DevAdvocate,CommunityManager,TechWriter,DXEngineer,DevRelManager roleClass
+```
+
+**Como ler este diagrama:**
+- 🚀 **Comece pelo topo**: entenda o que é DevRel e sua importância
+- 📚 **Escolha suas trilhas**: você pode focar em áreas específicas ou estudar todas
+- 🔄 **É iterativo**: você pode voltar e aprofundar áreas conforme ganha experiência
+- 🎯 **Roles específicos**: cada trilha contribui para diferentes roles em DevRel
 
 ----------
 
