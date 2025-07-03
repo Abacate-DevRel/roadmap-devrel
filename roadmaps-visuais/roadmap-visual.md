@@ -1,4 +1,4 @@
-poder# 🗺️ Roadmap Visual DevRel - Versões Alternativas
+# 🗺️ Roadmap Visual DevRel - Versões Alternativas
 
 Este arquivo contém diferentes visualizações do roadmap para diferentes necessidades e preferências visuais.
 
