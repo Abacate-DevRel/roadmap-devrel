@@ -84,45 +84,50 @@ mindmap
 ## 🎯 Versão por Jornada de Aprendizado
 
 ```mermaid
-graph LR
-    subgraph "🔍 Fase 1: Descoberta (Semanas 1-4)"
-        A1[📚 Estudar o que é DevRel]
-        A2[🎯 Definir objetivos pessoais]
-        A3[👀 Observar comunidades]
-        A4[📝 Fazer primeiro post/comentário]
-    end
+graph TD
+    Start([🚀 Começar DevRel]) --> Fase1{🔍 Fase 1: Descoberta<br/>Semanas 1-4}
     
-    subgraph "🌱 Fase 2: Fundamentos (Meses 2-3)"
-        B1[✍️ Escrever primeiro artigo]
-        B2[🎤 Participar de discussões]
-        B3[💻 Aprender Git básico]
-        B4[🤝 Conectar com outros DevRels]
-    end
+    Fase1 --> A1[📚 Estudar o que é DevRel]
+    Fase1 --> A2[🎯 Definir objetivos pessoais]
+    Fase1 --> A3[👀 Observar comunidades]
+    A1 --> A4[📝 Fazer primeiro post/comentário]
+    A2 --> A4
+    A3 --> A4
     
-    subgraph "🚀 Fase 3: Prática (Meses 4-6)"
-        C1[🎪 Organizar primeiro evento]
-        C2[📊 Medir primeiros resultados]
-        C3[🔄 Implementar feedback loop]
-        C4[🎯 Escolher especialização]
-    end
+    A4 --> Fase2{🌱 Fase 2: Fundamentos<br/>Meses 2-3}
     
-    subgraph "⭐ Fase 4: Liderança (6+ meses)"
-        D1[👑 Liderar iniciativas]
-        D2[🤝 Mentorar outros]
-        D3[📈 Impactar métricas de negócio]
-        D4[🌍 Influenciar estratégia]
-    end
+    Fase2 --> B1[✍️ Escrever primeiro artigo]
+    Fase2 --> B2[🎤 Participar de discussões]
+    Fase2 --> B3[💻 Aprender Git básico]
+    B1 --> B4[🤝 Conectar com outros DevRels]
+    B2 --> B4
+    B3 --> B4
     
-    A1 --> A2 --> A3 --> A4
-    A4 --> B1 --> B2 --> B3 --> B4
-    B4 --> C1 --> C2 --> C3 --> C4
-    C4 --> D1 --> D2 --> D3 --> D4
+    B4 --> Fase3{🚀 Fase 3: Prática<br/>Meses 4-6}
     
+    Fase3 --> C1[🎪 Organizar primeiro evento]
+    Fase3 --> C2[📊 Medir primeiros resultados]
+    Fase3 --> C3[🔄 Implementar feedback loop]
+    C1 --> C4[🎯 Escolher especialização]
+    C2 --> C4
+    C3 --> C4
+    
+    C4 --> Fase4{⭐ Fase 4: Liderança<br/>6+ meses}
+    
+    Fase4 --> D1[👑 Liderar iniciativas]
+    Fase4 --> D2[🤝 Mentorar outros]
+    Fase4 --> D3[📈 Impactar métricas de negócio]
+    D1 --> D4[🌍 Influenciar estratégia]
+    D2 --> D4
+    D3 --> D4
+    
+    classDef faseClass fill:#f0f0f0,stroke:#666,stroke-width:3px
     classDef descoberta fill:#e8f5e8,stroke:#2e7d32,stroke-width:2px
     classDef fundamentos fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
     classDef pratica fill:#fff3e0,stroke:#f57f17,stroke-width:2px
     classDef lideranca fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
     
+    class Fase1,Fase2,Fase3,Fase4 faseClass
     class A1,A2,A3,A4 descoberta
     class B1,B2,B3,B4 fundamentos
     class C1,C2,C3,C4 pratica
