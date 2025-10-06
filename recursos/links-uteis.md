@@ -23,8 +23,7 @@ Uma coleção curada de recursos valiosos para quem trabalha ou quer trabalhar c
   *Guia completo sobre documentação técnica*
 
 ### 🎤 Palestras e Apresentações
-- **[Speaking.io](https://speaking.io/)** - Zach Holman  
-  *Guia completo sobre como dar palestras técnicas*
+
 
 ---
 
@@ -40,11 +39,6 @@ Uma coleção curada de recursos valiosos para quem trabalha ou quer trabalhar c
   - [Link no Amazon](https://www.amazon.com/Developer-Marketing-Does-Not-Exist/dp/B08P2MBY9X)
 
 ### 💻 Desenvolvimento de Habilidades
-- **"The Pragmatic Programmer"** - David Thomas & Andrew Hunt  
-  *Essencial para entender o mindset de desenvolvedores*
-
-- **"Soft Skills: The Software Developer's Life Manual"** - John Sonmez  
-  *Desenvolvimento de soft skills para tech*
 
 ---
 
