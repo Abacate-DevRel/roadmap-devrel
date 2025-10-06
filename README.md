@@ -36,7 +36,11 @@ roadmap-devrel/
 │   ├── roadmap-visual.md
 │   ├── roadmap-interativo.md
 │   └── README.md
+├── recursos/           # Links, ferramentas e materiais úteis
+│   ├── links-uteis.md
+│   └── README.md
 ├── CONTRIBUTING.md     # Como contribuir
+├── LICENSE            # Licença MIT
 └── README.md          # Este arquivo
 ```
 
@@ -52,6 +56,8 @@ Este é um projeto educacional aberto! Você pode contribuir:
 ## 📚 Recursos Adicionais
 
 - **[Roadmaps Visuais](./roadmaps-visuais/)** - Navegue por todas as versões visuais disponíveis
+- **[Links Úteis](./recursos/links-uteis.md)** - Curadoria de artigos, cursos, ferramentas, podcasts e mais
+- **[Pasta de Recursos](./recursos/)** - Materiais complementares para seu aprendizado
 
 ## 📜 Licença
 
