@@ -65,4 +65,4 @@ Este projeto está sob licença MIT - veja o arquivo [LICENSE](LICENSE) para det
 
 ---
 
-**💡 Dica**: Este repositório está em constante evolução. Acompanhe as atualizações e contribute com sua experiência!
+**💡 Dica**: Este repositório está em constante evolução. Acompanhe as atualizações e contribua com sua experiência!
