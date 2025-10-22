@@ -37,6 +37,12 @@ Uma coleção curada de recursos valiosos para quem trabalha ou quer trabalhar c
 - **"Developer Marketing Does Not Exist"** - Adam DuVander  
   *Como pensar marketing para desenvolvedores*
   - [Link no Amazon](https://www.amazon.com/Developer-Marketing-Does-Not-Exist/dp/B08P2MBY9X)
+ 
+### 🤝 Comunidades
+
+- **"A Arte das Comunidades Virtuais"** - Jono Bacon
+  *Construindo comunidades*
+  - [Link no Amazon](https://www.amazon.com.br/Arte-das-Comunidades-Virtuais/dp/8575222236)  
 
 ### 💻 Desenvolvimento de Habilidades
 
