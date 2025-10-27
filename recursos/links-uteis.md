@@ -156,6 +156,7 @@ Uma coleção curada de recursos valiosos para quem trabalha ou quer trabalhar c
 - **[The Developers Conference (TDC)](https://thedevconf.com/)** - Maior conferência de desenvolvedores no Brasil
 - **[Campus Party](https://brasil.campus-party.org/)** - Tecnologia, inovação e criatividade
 - **Meetups locais** - Procure no [Meetup.com](https://www.meetup.com/)
+- **[Python Brasil](https://pythonbrasil.org.br/)** - Maior encontro da comunidade Python do Brasil
 
 ---
 
